@@ -15,7 +15,8 @@ I'm a curious engineer, researcher, and problem-solver currently transitioning i
 
 - 🕹️ [**Time Traveller Game**](https://github.com/yourusername/time-traveller-game): A multiplayer trivia game that fetches live facts from Wikipedia and tests your history knowledge  
 - 📊 Mental Health Check Tool (based on WHO guidelines): Co-developed to improve digital well-being in remote workplaces()  
-- 📡 [**From Pixels to Presence**](https://industry-science.com/en/articles/from-pixels-to-presence): Research on enhancing telepresence robots with laser pointers for remote collaboration 
+- 📡 [**From Pixels to Presence**](https://industry-science.com/en/articles/from-pixels-to-presence): Telepresence robots (TPR) support the ongoing digital change in work and leisure amid climate and societal change. 
+- [**Can I Show You Something? Expanding the Capabilities of a Telepresence Robot with a Laser Pointer**](https://link.springer.com/chapter/10.1007/978-3-031-92980-9_16): Research on  enhancing telepresence robots with laser pointers for remote collaboration
 
 ---
 
