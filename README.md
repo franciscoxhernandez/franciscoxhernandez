@@ -6,7 +6,8 @@ I'm a curious engineer, researcher, and problem-solver currently transitioning i
 - 🌩️ **AI & Cloud Engineering Fellow** @ Masterschool – learning how to building full-stack apps, APIs, machine learning tools and cloud applications
 - 🤖 I love merging **human factors**, **robotics**, and **software engineering**  
 - 🔧 Former **automotive engineer** and logistics planner — now reprogramming myself one Python script at a time  
-- 💬 Ask me about: Python, SQL, APIs, research, productivity tools, or how to improve online and hybrid meetings   
+- 💬 Ask me about: Python, SQL, APIs, research, productivity tools, or how to improve online and hybrid meetings
+- 🌍 I speak **English**, **German**, **Spanish**, and **Italian**   
 - ⚡ Fun fact: I'm an automotive engineer without a car 🚲  
 
 ---
