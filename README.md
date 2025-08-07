@@ -3,17 +3,22 @@
 I'm a curious engineer, researcher, and problem-solver currently transitioning into the world of **AI and Cloud Engineering**.
 
 - 🧠 **PhD Researcher** at TU Chemnitz, exploring how telepresence robots can enhance remote collaboration and digital work  
-- 🌩️ **AI & Cloud Engineering Fellow** @ Masterschool – building full-stack apps, APIs, and machine learning tools  
+- 🌩️ **AI & Cloud Engineering Fellow** @ Masterschool – learning how to building full-stack apps, APIs, machine learning tools and cloud applications
 - 🤖 I love merging **human factors**, **robotics**, and **software engineering**  
 - 🔧 Former **automotive engineer** and logistics planner — now reprogramming myself one Python script at a time  
-- 💬 Ask me about: Python, SQL, APIs, research, productivity tools, or how to build a robot that joins Zoom calls  
+- 💬 Ask me about: Python, SQL, APIs, research, productivity tools, or how to improve online and hybrid meetings   
 - ⚡ Fun fact: I'm an automotive engineer without a car 🚲  
 
 ---
 
 ## 🚀 Projects I'm proud of
 
-- 🕹️ [**Time Traveller Game**](https://github.com/yourusername/time-traveller-game): A multiplayer trivia game that fetches live facts from Wikipedia and tests your history knowledge  
+- 🕹️ [**Time Traveller Game**](https://github.com/yourusername/time-traveller-game): Result of my first hackathon is a multiplayer trivia game that fetches live facts from Wikipedia and tests your history knowledge. 
+
+---
+
+## 🎓 Glimpse about my research
+
 - 📊 Mental Health Check Tool (based on WHO guidelines): Co-developed to improve digital well-being in remote workplaces()  
 - 📡 [**From Pixels to Presence**](https://industry-science.com/en/articles/from-pixels-to-presence): Telepresence robots (TPR) support the ongoing digital change in work and leisure amid climate and societal change. 
 - [**Can I Show You Something? Expanding the Capabilities of a Telepresence Robot with a Laser Pointer**](https://link.springer.com/chapter/10.1007/978-3-031-92980-9_16): Research on  enhancing telepresence robots with laser pointers for remote collaboration
