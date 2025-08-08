@@ -20,7 +20,7 @@ I'm a curious engineer, researcher, and problem-solver currently transitioning i
 
 ## 🎓 Glimpse about my research
 
-- 📊 Mental Health Check Tool (based on WHO guidelines): Co-developed to improve digital well-being in remote workplaces()  
+- 📊 [**Mental Health Check Tool**](https://digitalzentrum-chemnitz.de/werkzeuge/selbstchecks/fachcheck-mentale-gesundheit/)(based on WHO guidelines): Co-developed to improve digital well-being in remote workplaces  
 - 📡 [**From Pixels to Presence**](https://industry-science.com/en/articles/from-pixels-to-presence): Telepresence robots (TPR) support the ongoing digital change in work and leisure amid climate and societal change. 
 - [**Can I Show You Something? Expanding the Capabilities of a Telepresence Robot with a Laser Pointer**](https://link.springer.com/chapter/10.1007/978-3-031-92980-9_16): Research on  enhancing telepresence robots with laser pointers for remote collaboration
 
