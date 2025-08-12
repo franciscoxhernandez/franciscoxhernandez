@@ -2,8 +2,8 @@
 
 I'm a curious engineer, researcher, and problem-solver currently transitioning into the world of **AI and Cloud Engineering**.
 
-- 🧠 **PhD Researcher** at TU Chemnitz, exploring how telepresence robots can enhance remote collaboration and digital work  
-- 🌩️ **AI & Cloud Engineering Fellow** @ Masterschool – learning how to building full-stack apps, APIs, machine learning tools and cloud applications
+- 🧠 **PhD Researcher** @ TU Chemnitz, exploring how telepresence robots can enhance remote collaboration and digital work  
+- 🌩️ **AI & Cloud Engineering** @ Masterschool – learning how to building full-stack apps, APIs, machine learning tools and cloud applications
 - 🤖 I love merging **human factors**, **robotics**, and **software engineering**  
 - 🔧 Former **automotive engineer** and logistics planner — now reprogramming myself one Python script at a time  
 - 💬 Ask me about: Python, SQL, APIs, research, productivity tools, or how to improve online and hybrid meetings
