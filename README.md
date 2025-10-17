@@ -14,7 +14,8 @@ I'm a curious engineer, researcher, and problem-solver currently transitioning i
 
 ## 🚀 Projects I'm proud of
 
-- 🕹️ [**Time Traveller Game**](https://github.com/yourusername/time-traveller-game): Result of my first hackathon is a multiplayer trivia game that fetches live facts from Wikipedia and tests your history knowledge. 
+- 🕹️ [**Time Traveller Game**](https://github.com/yourusername/time-traveller-game): Result of my first hackathon is a multiplayer trivia game that fetches live facts from Wikipedia and tests your history knowledge.
+- 🧑🏻‍💻 [**EngageSight](https://github.com/franciscoxhernandez/EngageSight): EngageSight is an AI-powered App that analyzes participants’ engagement levels during online meetings.
 
 ---
 
